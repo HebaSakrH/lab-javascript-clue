@@ -102,11 +102,23 @@ const weaponsArray = [
 // ITERATION 2
 
 function selectRandom(randomCardsArray) {
+
+return randomCardsArray[Math.floor(Math.random()*randomCardsArray.length)];
 }
 
 
 
-function pickMystery() {} 
+function pickMystery() {
+
+
+array.forEach(randomCardsArray(element)); {
+ }
+} 
+ 
+
+ 
+    // code to be executed for each element
+ 
 
 
 // ITERATION 3
